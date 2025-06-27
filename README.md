@@ -1,1 +1,3 @@
-# mathe_python_seminar
+# mathe_seminar
+
+Vorlage für Classroom Github.
