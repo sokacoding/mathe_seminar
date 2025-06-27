@@ -1,7 +1,8 @@
 {
   "name": "mathe_python_seminar",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
+    "context": ".."
   },
   "postCreateCommand": "pip install -r requirements.txt",
   "customizations": {
